@@ -8,6 +8,9 @@
 	"dependencies": {
 		"@sap/approuter": "9.0.1"
 	},
+	"engines": {
+    		"node": "^12.20.0"
+  	},
 	"devDependencies": {
 		"@sap/html5-repo-mock": "2.0.1"
 	},
